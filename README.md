@@ -8,8 +8,8 @@ The **Rule Engine API** is a powerful system for creating, managing, and evaluat
 
 ## 2. Live Demo
 
-- **Frontend Live Link**: [Frontend Application Live Demo](http://localhost:5173) (Running on Vite)
-- **Backend API Documentation**: [Backend API Live Docs](http://localhost:8000) (Express API)
+- **Frontend Live Link**: [Frontend Application Live Demo](https://rule-engine-ast-bay.vercel.app) (Running on Vite)
+- **Backend API Documentation**: [Backend API Live Docs](https://rule-engine-ast-mlfs.onrender.com) (Express API)
 
 ---
 
